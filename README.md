@@ -3,10 +3,15 @@
 Hey there! I'm Mukul Kumar, a passionate technology enthusiast and coding enthusiast. Currently, I am pursuing my graduation in Bachelor Of Computer Applications. I have a deep interest in exploring new technologies and creating exciting projects using them. Apart from this, I love teaching and sharing my knowledge with others.
 
 My Skills :
+
 -Programming Languages: C, Java, Python
--Web Development: HTML, CSS, JavaScript, ReactJS
+
+-Web Development: HTML, CSS, JavaScript, ReactJS, 
+
 -Data Structures and Algorithms
+
 -Operating Systems: Linux, Windows
+
 -Database Management Systems: MySQL, Oracle
 
  
